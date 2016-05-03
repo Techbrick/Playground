@@ -1,0 +1,4 @@
+Slide:
+	Material: Lead coated in mercury
+Monkey Bars
+	Material: Teethed Steal
